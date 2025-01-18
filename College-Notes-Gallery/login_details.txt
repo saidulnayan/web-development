@@ -1,0 +1,19 @@
+Run the XAMPP server
+Go to a Browser and paste the URL Below:
+
+http://localhost/College-Notes-Gallery/
+
+
+Login details for College Notes Gallery:
+
+
+Admin Login ---->
+
+username: root
+password: adminroot
+
+
+User Login ----->
+
+username:  user
+password:  userpass
