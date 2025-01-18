@@ -1,0 +1,25 @@
+Run the XAMPP server
+Go to a Browser and paste the URL Below:
+
+http://localhost/das/
+
+
+Login details for users:
+
+
+Admin Login ---->
+
+URL: http://localhost/das/admin/adminlogin.php
+username: adnim
+password: 13020944
+
+
+Patient Login ----->
+
+username:  test@gmail.com
+password:  123
+
+Doctor Login ----->
+
+username:  1007
+password:  123
